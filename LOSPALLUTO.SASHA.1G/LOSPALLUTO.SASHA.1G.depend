@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1539294491 source:c:\users\sashaoriana\documents\laboratorio1\lospalluto.sasha.1g\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	"funciones.h"
+
+1539299363 c:\users\sashaoriana\documents\laboratorio1\lospalluto.sasha.1g\funciones.h
+
+1539295282 source:c:\users\sashaoriana\documents\laboratorio1\lospalluto.sasha.1g\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	"funciones.h"
+
+1539299347 source:c:\users\sashaoriana\documents\laboratorio1\lospalluto.sasha.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	"funciones.h"
+
+1539293976 source:c:\users\sashaoriana\documents\laboratorio1\lospalluto.sasha.1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	"funciones.h"
+
+1539297017 source:c:\users\sashaoriana\documents\laboratorio1\lospalluto.sasha.1g\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	"funciones.h"
+
